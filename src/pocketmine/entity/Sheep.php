@@ -42,7 +42,7 @@ class Sheep extends Animal implements Colorable {
 
     public $width = 0.0;
     public $length = 1.3;
-    public $height = 0.9;
+    public $height = 0;
 
     /**
      * @return string
